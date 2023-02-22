@@ -12,7 +12,7 @@ Esta aplicación permite a los usuarios ingresar un color (con su nombre en ingl
 
 1.  Clonar el repositorio y utilizarlo de manera local
 
-    `git clone https://github.com/fedekrenn/memory-game-JS.git`
+    `https://github.com/fedekrenn/servidor-deno.git`
 
 2.  Levantar el servidor de manera local con el comando:
 
